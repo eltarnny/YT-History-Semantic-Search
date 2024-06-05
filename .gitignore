@@ -1,0 +1,8 @@
+chroma
+output_with_transcripts.csv
+output_with_transcripts.parquet
+output.csv
+output.parquet
+watch-history.json
+__pycache__/yt-history-api.cpython-311.pyc
+__pycache__/main.cpython-311.pyc
